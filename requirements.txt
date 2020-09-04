@@ -1,4 +1,4 @@
-numpy==1.14
-bokeh==0.12
-scipy==1.0
-ipywidgets==7.2.1
+numpy
+bokeh
+scipy
+ipywidgets
