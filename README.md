@@ -1,6 +1,9 @@
 
-.. image:: https://zenodo.org/badge/131039990.svg
-   :target: https://zenodo.org/badge/latestdoi/131039990
+
+
+[![DOI](https://zenodo.org/badge/131039990.svg)](https://zenodo.org/badge/latestdoi/131039990)
+
+
    
    
 # TadFromS
