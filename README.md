@@ -1,3 +1,8 @@
+
+.. image:: https://zenodo.org/badge/131039990.svg
+   :target: https://zenodo.org/badge/latestdoi/131039990
+   
+   
 # TadFromS
 Understand how the adiabatic temperature curves change with changing first order magnetocaloric material data properties.
 
